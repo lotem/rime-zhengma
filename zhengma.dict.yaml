@@ -800,6 +800,7 @@ encoder:
 𠮴	aij	0
 政	aim	73700000
 𤓯	aio	0
+𫟧	aiw	0
 邒	aiy	19700
 𨚣	aiy	0
 丐	aiz	8170000
@@ -1556,6 +1557,7 @@ encoder:
 責	clo	5750000
 责	clo	183000000
 𤦚	clo	0
+𫞥	clo	0
 现	clr	275000000
 現	clr	44300000
 耡	cly	61000
@@ -1900,6 +1902,7 @@ encoder:
 𢪠	dji	0
 捛	djj	22400
 操	djj	45300000
+𫝻	djj	0
 损	djl	55100000
 損	djl	26600000
 抧	djo	116000
@@ -2373,6 +2376,7 @@ encoder:
 葉	eef	59900000
 𦳑	eef	0
 𦻆	eef	0
+𫟒	eef	0
 鞯	eeg	561000
 苦	eej	119000000
 𦳦	eej	0
@@ -4528,6 +4532,7 @@ encoder:
 䗈	isl	3780
 蝣	ism	282000
 蚊	iso	14300000
+𫞫	isr	0
 螃	isu	9190000
 𧉼	isu	0
 蟀	isv	1480000
@@ -4563,6 +4568,7 @@ encoder:
 𧌞	iwy	0
 𧌴	iwy	0
 虑	iwz	9960000
+𫝀	ixa	0
 蛏	ixb	346000
 𠁣	ixb	0
 𢍀	ixe	0
@@ -4767,6 +4773,7 @@ encoder:
 𠼉	jgq	0
 㕱	jgr	3890
 𠮾	jgr	0
+𫝘	jgr	0
 吠	jgs	4410000
 呔	jgs	1320000
 啄	jgs	3100000
@@ -5273,6 +5280,7 @@ encoder:
 暙	kco	474000
 晴	kcq	46600000
 𪰑	kcs	0
+𫞂	kcs	0
 旺	kcv	65500000
 最	kcx	1270000000
 𪰸	kcz	0
@@ -5550,6 +5558,7 @@ encoder:
 業	kuc	93900000
 對	kud	187000000
 㫧	kuf	4040
+𫞃	kuj	0
 曦	kum	5840000
 鑿	kun	1460000
 炅	kuo	2060000
@@ -6477,6 +6486,7 @@ encoder:
 签	mob	82700000
 筌	moc	1170000
 失	mod	69600000
+𫝄	mod	0
 稀	mog	23800000
 筕	moi	44000
 稅	moj	20000000
@@ -7280,6 +7290,7 @@ encoder:
 𥃦	odl	0
 舍	odm	58600000
 𠆥	odm	0
+𫝄	odm	0
 亽	ods	346000
 𠇍	odu	0
 令	odw	256000000
@@ -7628,6 +7639,7 @@ encoder:
 鑊	pen	833000
 镬	pen	787000
 鉷	peo	55100
+𫟹	peo	0
 鏾	peq	89700
 鋩	pes	162000
 鑮	pev	36500
@@ -7684,6 +7696,7 @@ encoder:
 𨧧	pgs	0
 鐐	pgu	2290000
 镣	pgu	703000
+𫟼	pgw	0
 鈸	pgx	109000
 钹	pgx	368000
 銕	pgy	96200
@@ -7791,6 +7804,7 @@ encoder:
 鏜	pkw	149000
 镗	pkw	1070000
 铛	pkx	1960000
+𫟰	pkx	0
 翻	pky	244000000
 鏍	pkz	1870000
 镙	pkz	423000
@@ -7964,6 +7978,7 @@ encoder:
 鈠	pqx	20400
 𨱁	pqx	0
 釚	pqy	32100
+𫟲	pqy	0
 縏	pqz	24800
 𧲠	pqz	0
 豹	pra	23400000
@@ -8030,6 +8045,7 @@ encoder:
 铱	psr	930000
 鉝	psu	28800
 镑	psu	2040000
+𫟷	psu	0
 鎊	psw	439000
 鋃	psx	97500
 锒	psx	561000
@@ -8707,6 +8723,7 @@ encoder:
 鯄	rdv	43000
 𫃛	rdz	0
 魽	reb	50500
+𫠐	reb	0
 鯕	rec	61000
 鲯	rec	49200
 𫙏	red	0
@@ -8782,6 +8799,7 @@ encoder:
 䰹	rhm	4220
 𠂎	rhm	0
 氐	rhs	2640000
+𫞕	rhs	0
 鲢	rhw	978000
 鮔	rhx	53700
 卬	rhy	145000
@@ -9339,6 +9357,7 @@ encoder:
 谑	sih	903000
 蠪	sii	29800
 訨	sii	163000
+𫟞	sii	0
 站	sij	2410000000
 詀	sij	115000
 𡃡	sij	0
@@ -9385,6 +9404,7 @@ encoder:
 裏	skb	85400000
 𧨚	skb	0
 𧫔	skb	0
+𫟯	skb	0
 誹	skc	994000
 诽	skc	553000
 䚯	skd	3440
@@ -9673,6 +9693,7 @@ encoder:
 谘	str	948000
 譧	stu	32900
 詊	sub	32600
+𫟟	sub	0
 詳	suc	13500000
 详	suc	34400000
 竎	sue	24600
@@ -9681,6 +9702,7 @@ encoder:
 詸	suf	103000
 䇉	sug	3680
 产	sug	128000000
+𫞼	sug	0
 䇂	sui	4330
 剖	suj	6410000
 咅	suj	34700
@@ -10151,6 +10173,7 @@ encoder:
 阕	txa	3020000
 鹿	txa	42800000
 塵	txb	8570000
+𫞬	txb	0
 阚	txc	1050000
 𤷱	txd	0
 癜	txe	1580000
@@ -11303,6 +11326,7 @@ encoder:
 䢎	wae	3640
 袜	waf	18900000
 宁	wai	90900000
+𫟧	wai	0
 富	waj	126000000
 寅	wak	8060000
 賓	wak	7290000
@@ -11601,6 +11625,7 @@ encoder:
 𥥃	woq	0
 𧦱	wos	0
 窘	wox	3410000
+𫞹	wox	0
 穷	woy	36600000
 𥤣	woy	0
 𥥮	woz	0
@@ -11987,6 +12012,7 @@ encoder:
 𠬹	xsz	0
 买	xtg	627000000
 骥	xtr	5120000
+𫠋	xtx	0
 屏	xue	177000000
 骈	xue	585000
 屎	xuf	24600000
@@ -13933,6 +13959,7 @@ encoder:
 可我	ajmv	18900000
 可气	ajmy	1300000
 可使	ajna	12300000
+𫝁	ajnd	0
 可供	ajne	19200000
 豍	ajne	24300
 𣝐	ajnf	0
@@ -14558,6 +14585,7 @@ encoder:
 殡葬	area	1870000
 𣨴	aref	0
 㱠	arej	4650
+𫞔	arek	0
 㱵	arel	8860
 殖	arel	3420000
 𤳓	areo	0
@@ -14981,6 +15009,7 @@ encoder:
 平息	aunw	7020000
 平行	auoi	19900000
 平谷	auoo	10600000
+𫝃	auoo	0
 平衡	auor	60300000
 平分	auoy	1900000
 平反	aupx	2600000
@@ -15110,6 +15139,7 @@ encoder:
 一具	avlo	1340000
 一瞬	avlp	21500000
 一眼	avlx	48100000
+𫝂	avma	0
 一等	avmb	18800000
 一生	avmc	82500000
 一手	avmd	48000000
@@ -15855,6 +15885,7 @@ encoder:
 𫎁	bdoj	0
 替	bdok	60900000
 𪞾	bdok	0
+𫞄	bdok	0
 規	bdol	20900000
 规	bdol	46000000
 賛	bdol	608000
@@ -16096,6 +16127,7 @@ encoder:
 𡐧	bfke	0
 𪤠	bfki	0
 𡒫	bflb	0
+𫝠	bflc	0
 堜	bflk	717000
 𢽓	bfmo	0
 𡓘	bfni	0
@@ -16461,6 +16493,7 @@ encoder:
 𢀜	biyb	0
 𩢗	biyc	0
 㓛	biyd	4300
+𫠅	biye	0
 𥑙	biyg	0
 𥑱	biyg	0
 盐巴	biyi	283000
@@ -16768,6 +16801,7 @@ encoder:
 堤坝	bkbl	1240000
 来者	bkbm	5400000
 𫀏	bkbr	0
+𫝔	bkbr	0
 壜	bkbz	155000
 来去	bkbz	6150000
 𥜪	bkci	0
@@ -18128,6 +18162,7 @@ encoder:
 壇	bska	11600000
 𡍠	bska	0
 墥	bskb	45500
+𫝟	bskb	0
 墇	bske	29700
 𡑌	bskh	0
 境界	bsko	34200000
@@ -18161,6 +18196,7 @@ encoder:
 境外	bsri	15600000
 𪣱	bsri	0
 𪤪	bsrn	0
+𫟨	bsrw	0
 𪣠	bssj	0
 培训	bssn	243000000
 培育	bssz	29600000
@@ -18302,6 +18338,7 @@ encoder:
 謺	buqs	38000
 慹	buqw	46800
 執	buqy	5610000
+𫝑	buqy	0
 縶	buqz	47300
 𠒀	burd	0
 幸免	burj	6340000
@@ -19221,6 +19258,7 @@ encoder:
 𠬇	bzjk	0
 专员	bzjl	7520000
 动员	bzjl	30000000
+𫞱	bzjl	0
 𡍗	bzjo	0
 动听	bzjp	7140000
 去路	bzjr	3260000
@@ -19934,6 +19972,7 @@ encoder:
 𦗹	ceoo	0
 𦘎	ceoo	0
 𫆊	ceoo	0
+𫞩	ceoo	0
 聄	ceop	57500
 𦗖	ceop	0
 𦡠	ceoq	0
@@ -20048,6 +20087,7 @@ encoder:
 𦗍	cews	0
 耳边	cewy	15500000
 𨟡	cewy	0
+𫞧	cewy	0
 恥	cewz	9040000
 𢚸	cewz	0
 𪫵	cewz	0
@@ -20116,6 +20156,7 @@ encoder:
 𫆆	cezm	0
 𩀳	cezn	0
 𦖶	cezs	0
+𫟉	cezs	0
 䏉	cezu	3490
 聮	cezu	94300
 𤈨	cezu	0
@@ -21261,6 +21302,7 @@ encoder:
 𤥮	ckmj	0
 𦔄	ckml	0
 𪻻	ckml	0
+𫞨	ckml	0
 𢼡	ckmo	0
 𤥟	ckms	0
 理科	ckmt	25400000
@@ -21887,6 +21929,7 @@ encoder:
 㻢	csmy	3600
 𤦽	csmy	0
 玉皇	csnc	853000
+𫞦	csnd	0
 𤫓	csng	0
 斑白	csnk	536000
 玉帛	csnl	533000
@@ -21952,6 +21995,7 @@ encoder:
 瑭	ctxj	556000
 𤨭	ctxl	0
 𤨫	ctxw	0
+𫠉	cuaa	0
 䮗	cuae	3660
 馯	cuae	29100
 駻	cuae	67000
@@ -23351,6 +23395,7 @@ encoder:
 𢹜	deoo	0
 𢺊	deoo	0
 擹	deor	48300
+𫝾	deor	0
 𢺍	deoz	0
 撕	depd	27900000
 𢵛	depf	0
@@ -24045,6 +24090,7 @@ encoder:
 擇	dlbu	6050000
 摆	dlbz	71500000
 摆动	dlbz	4050000
+𫝺	dlbz	0
 摆弄	dlce	2660000
 𢶮	dlcu	0
 㧇	dlda	4040
@@ -24363,6 +24409,7 @@ encoder:
 𢭢	dnmi	0
 搜刮	dnmk	1960000
 推算	dnml	5020000
+𫝽	dnmp	0
 推移	dnmr	12800000
 推辞	dnms	2430000
 搜集	dnnf	28900000
@@ -25015,11 +25062,13 @@ encoder:
 批发	drzv	127000000
 指出	drzz	99200000
 掏出	drzz	11700000
+𫝿	dsaa	0
 拉开	dsae	19900000
 拉丁	dsai	13600000
 𢱏	dsai	0
 𢰤	dsaj	0
 𢷔	dsaj	0
+𫝿	dsbi	0
 𢸛	dsbj	0
 撞塌	dsbk	56400
 接替	dsbo	7100000
@@ -25677,6 +25726,7 @@ encoder:
 𢫫	dxbd	0
 择	dxbi	19700000
 𢲉	dxbk	0
+𫝼	dxbr	0
 扫地	dxbv	3500000
 揵	dxby	125000
 扭动	dxbz	3280000
@@ -26798,6 +26848,7 @@ encoder:
 其余	ecom	28500000
 𦴿	ecow	0
 𠔡	ecoy	0
+𫞪	ecoz	0
 其后	ecpa	12100000
 斯	ecpd	261000000
 𣚄	ecpf	0
@@ -26870,6 +26921,7 @@ encoder:
 𧡪	eczl	0
 𢾤	eczm	0
 藉以	eczo	1530000
+𫞪	eczo	0
 歁	eczr	39200
 𢝖	eczw	0
 𢦊	eczw	0
@@ -27211,6 +27263,7 @@ encoder:
 𦃦	edwz	0
 萚	edxb	58400
 頍	edxg	33700
+𫠆	edxg	0
 疐	edxi	40800
 蓵	edxi	29400
 𦰽	edxi	0
@@ -27248,6 +27301,7 @@ encoder:
 瓳	edys	28000
 𤭱	edys	0
 𠒘	edyt	0
+𫝓	edyv	0
 愂	edyw	30700
 𢚦	edyw	0
 䎁	edyy	4000
@@ -28203,6 +28257,7 @@ encoder:
 𦳙	ehmo	0
 𨯍	ehmp	0
 藏身	ehnc	4440000
+𫟎	ehnd	0
 载体	ehnf	33700000
 栽倒	ehnh	986000
 䘁	ehni	6260
@@ -28253,6 +28308,7 @@ encoder:
 蘙	ehyy	35700
 𦼿	ehzg	0
 藏	ehzh	146000000
+𫟖	ehzh	0
 芚	ehzi	72900
 萅	ehzk	20500
 𢧭	ehzk	0
@@ -28731,6 +28787,7 @@ encoder:
 𦿐	eknh	0
 朝向	eknj	11400000
 黄泉	eknk	3350000
+𫟜	eknl	0
 𢿯	eknm	0
 黄牌	eknn	3910000
 摹仿	ekns	407000
@@ -29275,6 +29332,7 @@ encoder:
 莵	emrs	94500
 𦱜	emrs	0
 𦲦	emrs	0
+𫟏	emrs	0
 𫊎	emsb	0
 蘖	emsf	447000
 𩕸	emsg	0
@@ -29687,6 +29745,7 @@ encoder:
 茶馆	eoow	28600000
 共创	eooy	11700000
 𦭏	eopd	0
+𫟓	eopj	0
 茶盘	eopl	345000
 茶几	eoqd	4870000
 萮	eoqk	28100
@@ -29973,6 +30032,7 @@ encoder:
 葱郁	ergq	1230000
 警犬	ergs	858000
 警戒	erhe	12800000
+𫟌	erid	0
 𦿼	erii	0
 䓘	erij	3560
 𧁰	erix	0
@@ -30056,6 +30116,7 @@ encoder:
 𦽭	errn	0
 𧃄	errn	0
 芘	errr	1430000
+𫟍	errr	0
 茤	errs	151000
 菟	errs	1550000
 𠣷	errs	0
@@ -30394,6 +30455,7 @@ encoder:
 丧葬	euea	1340000
 𦾲	eueo	0
 蕲	euep	816000
+𫟕	euey	0
 䔿	eufd	4730
 𦳷	eufd	0
 𧅘	eufg	0
@@ -30469,6 +30531,7 @@ encoder:
 蒌	euzm	407000
 薮	euzm	1130000
 蒴	euzq	136000
+𫟔	euzr	0
 𦴷	evab	0
 𦹻	evab	0
 䓑	evae	3930
@@ -30948,6 +31011,7 @@ encoder:
 蓂	ewso	121000
 荣立	ewsu	493000
 𦲏	ewsy	0
+𫟐	ewsy	0
 带病	ewta	1030000
 𦮜	ewte	0
 芝麻	ewtf	11500000
@@ -31170,6 +31234,7 @@ encoder:
 𧂰	exul	0
 𧃤	exul	0
 𦳒	exuo	0
+𫟑	exuo	0
 蒸汽	exvm	9190000
 支流	exvs	2660000
 𪜀	exvv	0
@@ -31663,6 +31728,7 @@ encoder:
 木器	fajj	2200000
 楅	fajk	1390000
 槅	fajl	333000
+𫞉	fajn	0
 𣐸	fajo	0
 𣘅	fajr	0
 梪	faju	66800
@@ -32028,6 +32094,7 @@ encoder:
 𨢦	fdcl	0
 釅	fdcm	36100
 𨣅	fdcx	0
+𫟮	fdcz	0
 䣿	fddl	5940
 酎	fdds	1030000
 酣	fdeb	5090000
@@ -32547,6 +32614,7 @@ encoder:
 﨓	fend	26500
 𣟿	fenf	0
 𣝫	feni	0
+𫞐	feni	0
 植保	fenj	1950000
 横向	fenj	19800000
 欟	fenl	52900
@@ -32761,6 +32829,7 @@ encoder:
 林业	ffku	25200000
 𣛺	ffky	0
 禁赌	fflb	277000
+𫞍	fflc	0
 栜	ffld	31000
 楝	fflk	1480000
 𥁹	fflk	0
@@ -32898,6 +32967,7 @@ encoder:
 槈	fgds	325000
 需求	fgdv	303000000
 震荡	fgev	15900000
+𫞒	fgfk	0
 需要	fgfv	591000000
 㮕	fggd	4030
 㰁	fggg	6210
@@ -32915,6 +32985,7 @@ encoder:
 𣕨	fgki	0
 橑	fgkk	30400
 𣞀	fgkl	0
+𫞏	fgkl	0
 𣖔	fgky	0
 㭺	fgkz	4530
 柨	fgli	825000
@@ -32933,6 +33004,7 @@ encoder:
 𣔸	fgoo	0
 杯盘	fgpl	412000
 𪳊	fgqf	0
+𫞎	fgql	0
 㮋	fgqy	3990
 㮷	fgrk	3840
 震颤	fgsj	1630000
@@ -33237,6 +33309,7 @@ encoder:
 樿	fjke	832000
 覃	fjke	2850000
 𧟻	fjke	0
+𫟛	fjke	0
 𣝞	fjkf	0
 𪘼	fjki	0
 西昌	fjkk	2730000
@@ -33662,6 +33735,7 @@ encoder:
 輻	fkjk	1120000
 𨎴	fkjk	0
 𩈻	fkjk	0
+𫞑	fkjk	0
 轎	fkjl	1840000
 𣙟	fkjl	0
 𨍮	fkjl	0
@@ -34273,6 +34347,7 @@ encoder:
 相同	flld	81600000
 𣐶	flld	0
 𣙋	flld	0
+𫝛	flld	0
 𣝇	fllf	0
 𣑹	flli	0
 𧢔	flll	0
@@ -34551,6 +34626,7 @@ encoder:
 柂	fmyi	54000
 𣙭	fmyj	0
 𣒴	fmym	0
+𫞌	fmyq	0
 𣛏	fmys	0
 𪴚	fmyu	0
 槌	fmyw	5530000
@@ -35013,6 +35089,7 @@ encoder:
 㮆	fouc	4200
 䴵	foue	4640
 𪍑	fouf	0
+𫞋	foui	0
 𪍶	fouj	0
 䵂	foul	5250
 覆盖	foul	33800000
@@ -35151,6 +35228,7 @@ encoder:
 𣔙	fpro	0
 𪁻	fprz	0
 𣖅	fpse	0
+𫞊	fpsy	0
 𣔋	fpvv	0
 𣜬	fpwr	0
 𪓫	fpwx	0
@@ -36071,6 +36149,7 @@ encoder:
 𩅉	fvoo	0
 𩅼	fvoo	0
 𩆯	fvoo	0
+𫝃	fvoo	0
 要饭	fvop	1750000
 𩅙	fvop	0
 𣖷	fvoq	0
@@ -36790,6 +36869,7 @@ encoder:
 配备	fyrk	23500000
 配角	fyrl	5030000
 配色	fyry	9370000
+𫞈	fysa	0
 𣑗	fysd	0
 𣚟	fysi	0
 㯁	fysj	3540
@@ -37794,6 +37874,7 @@ encoder:
 𣣚	gdzr	0
 𩿅	gdzr	0
 𫛦	gdzr	0
+𫠖	gdzr	0
 厷	gdzs	666000
 厺	gdzs	108000
 大娘	gdzs	1930000
@@ -38138,6 +38219,7 @@ encoder:
 厤	ggmm	328000
 𩴣	ggmn	0
 𩞨	ggmo	0
+𫝕	ggmo	0
 𨬑	ggmp	0
 𦠓	ggmq	0
 𠪁	ggmr	0
@@ -38173,6 +38255,7 @@ encoder:
 厌倦	ggnu	6980000
 𤎝	ggnu	0
 𠪇	ggnx	0
+𫝗	ggny	0
 𠪳	ggnz	0
 硕	ggoa	71400000
 碩	ggoa	8560000
@@ -38361,12 +38444,14 @@ encoder:
 𠩅	ggys	0
 𠪹	ggys	0
 𥑣	ggys	0
+𫝕	ggyt	0
 励	ggyy	5130000
 厄	ggyy	9070000
 砈	ggyy	62000
 𠠿	ggyy	0
 𥑉	ggyy	0
 𨜸	ggyy	0
+𫟫	ggyy	0
 𡓸	ggzb	0
 𠪸	ggzf	0
 𠩩	ggzg	0
@@ -40388,6 +40473,7 @@ encoder:
 𨐇	hegm	0
 轿	hegn	9510000
 𫐄	hegr	0
+𫟦	hegw	0
 轭	hegy	538000
 𫐆	hegy	0
 车臣	heha	1370000
@@ -40420,6 +40506,7 @@ encoder:
 𫐅	hell	0
 𦣶	helo	0
 𫐇	helo	0
+𫟥	helo	0
 𨐊	helw	0
 车手	hemd	4540000
 𫐓	hemf	0
@@ -40475,12 +40562,14 @@ encoder:
 辘	hetx	285000
 车灯	heua	2300000
 𫐌	heue	0
+𫟦	heug	0
 戒烟	heuj	4700000
 车前	heuq	3380000
 车流	hevs	1740000
 车速	hewf	4330000
 车祸	hewj	12200000
 𠥖	hewl	0
+𫟤	hewr	0
 𫐑	hewy	0
 戒心	hewz	2800000
 车马	hexa	2050000
@@ -41640,6 +41729,7 @@ encoder:
 虫媒	iaze	95900
 𧋝	iazf	0
 𦇂	iazi	0
+𫝅	iazo	0
 卡纸	iazr	880000
 𦲘	iazr	0
 䗡	iazu	3560
@@ -41829,6 +41919,7 @@ encoder:
 鹵	idjo	4110000
 鹸	idjo	125000
 𠧚	idjo	0
+𫠗	idjo	0
 㣌	idjp	4100
 𠧧	idjr	0
 𣢤	idjr	0
@@ -42683,6 +42774,7 @@ encoder:
 𣦉	iiml	0
 𧖭	iiml	0
 𣥨	iims	0
+𫞓	iims	0
 顰	iine	204000
 颦	iine	1840000
 𩖓	iine	0
@@ -42724,6 +42816,7 @@ encoder:
 𪗶	iiri	0
 呰	iirj	861000
 𧿿	iirj	0
+𫠚	iirj	0
 㫮	iirk	3750
 㠿	iirl	5050
 眥	iirl	161000
@@ -42908,6 +43001,7 @@ encoder:
 虚拟	ikdz	91100000
 卓著	ikeb	2150000
 𧏻	ikeb	0
+𫝒	iked	0
 𧑌	ikeo	0
 虚荣	ikew	5640000
 频带	ikew	873000
@@ -43260,6 +43354,7 @@ encoder:
 𪙢	iokh	0
 𪙡	iokk	0
 𪙾	iokl	0
+𫠛	iokm	0
 𪘞	iokq	0
 𪙑	iokq	0
 𪘄	iokr	0
@@ -43286,6 +43381,7 @@ encoder:
 齵	iolz	45600
 𪙥	iolz	0
 𪙺	iolz	0
+𫝏	iolz	0
 蜍	iomf	113000
 𪗮	iomf	0
 𪘐	iomh	0
@@ -43309,6 +43405,7 @@ encoder:
 𪙻	ionh	0
 𪘮	ioni	0
 齯	ionr	36000
+𫠜	ionr	0
 𪘧	iooe	0
 𠒃	ioog	0
 𪚉	ioog	0
@@ -43345,6 +43442,7 @@ encoder:
 𧒰	ioqm	0
 𨰢	ioqp	0
 𪗤	ioqs	0
+𫠙	ioqx	0
 𪘫	iora	0
 𪙝	iord	0
 齿条	iorf	392000
@@ -43821,6 +43919,7 @@ encoder:
 𧑚	iwot	0
 𫋅	iwpd	0
 𧏖	iwpo	0
+𫟗	iwrb	0
 䗦	iwrc	3650
 𧉡	iwrd	0
 𫋍	iwrj	0
@@ -44898,6 +44997,7 @@ encoder:
 𠿣	jfbr	0
 困境	jfbs	18200000
 𠻢	jfbz	0
+𫝚	jfbz	0
 𠾴	jfcb	0
 𡅺	jfch	0
 𣔣	jfcs	0
@@ -44966,6 +45066,7 @@ encoder:
 𠺝	jfrj	0
 𪢐	jfrl	0
 𠿙	jfry	0
+𫝞	jfry	0
 𪁣	jfrz	0
 𠵉	jfsq	0
 哺育	jfsz	2070000
@@ -45472,6 +45573,7 @@ encoder:
 𨅨	jijf	0
 𫏡	jijg	0
 𨅝	jijh	0
+𫟣	jijh	0
 踀	jiji	43500
 蹿	jiji	2540000
 𧒍	jiji	0
@@ -47242,6 +47344,7 @@ encoder:
 𠹻	jqag	0
 㕨	jqda	4220
 𠯥	jqed	0
+𫝜	jqfn	0
 𪡿	jqhb	0
 叽叽	jqjq	763000
 剈	jqkd	22600
@@ -48733,6 +48836,7 @@ encoder:
 𫎇	kdag	0
 𣥠	kdai	0
 师	kdal	416000000
+𫝌	kdao	0
 𩇧	kday	0
 𣥠	kdbi	0
 𤯶	kdbm	0
@@ -48977,6 +49081,7 @@ encoder:
 𣌁	kgbm	0
 𣌂	kgbm	0
 晇	kgbz	47500
+𫝝	kgcm	0
 光热	kgdq	757000
 晨报	kgdy	17400000
 𪰫	kgee	0
@@ -49446,6 +49551,7 @@ encoder:
 㽘	kisq	4210
 甲亢	kisq	3140000
 畩	kisr	106000
+𫞫	kisr	0
 申辩	kiss	1180000
 𤱗	kisu	0
 申说	kisv	119000
@@ -50163,6 +50269,7 @@ encoder:
 𪃅	kokr	0
 𪇁	kokr	0
 𦂗	kokz	0
+𫠝	kokz	0
 𡮝	kolb	0
 尙	kold	948000
 尚	kold	224000000
@@ -51999,6 +52106,7 @@ encoder:
 同情	lduc	25500000
 𦊮	lduf	0
 同类	ldug	53900000
+𫝍	ldui	0
 𠕚	lduk	0
 𦌞	lduk	0
 岡	ldul	11000000
@@ -53341,6 +53449,7 @@ encoder:
 𡹣	llaj	0
 𡼪	llaj	0
 𧯶	llaj	0
+𫝴	llaj	0
 嵗	llak	418000
 𠝦	llak	0
 𡻷	llak	0
@@ -53448,6 +53557,7 @@ encoder:
 𡼙	llbz	0
 𡼰	llbz	0
 𡾀	llbz	0
+𫝵	llcd	0
 㟖	llce	3750
 𡷟	llce	0
 嶯	llch	38600
@@ -54661,6 +54771,7 @@ encoder:
 𡴰	llyz	0
 𪨭	llyz	0
 𪨮	llyz	0
+𫝳	llyz	0
 乢	llza	56200
 屿	llza	3540000
 𡼺	llzb	0
@@ -55429,6 +55540,7 @@ encoder:
 覞	lrlr	36700
 骶骨	lrlw	177000
 𧢅	lrlw	0
+𫞳	lrmb	0
 𧠑	lrmh	0
 购租	lrml	51500
 购物	lrmr	207000000
@@ -57560,6 +57672,7 @@ encoder:
 𣂩	mebp	0
 䳠	mebr	4110
 䳯	mebr	3880
+𫟚	mebr	0
 熏	mebu	14000000
 𤋱	mebu	0
 𢛲	mebw	0
@@ -57681,6 +57794,7 @@ encoder:
 䉈	meqm	4570
 埀	merb	882000
 垂危	merg	2920000
+𫞽	merh	0
 𥰄	merj	0
 𠝍	merk	0
 𡹁	merl	0
@@ -57872,6 +57986,7 @@ encoder:
 𥢚	mfbz	0
 𪏳	mfbz	0
 𫁂	mfbz	0
+𫞷	mfbz	0
 䭰	mfcb	4480
 𥴇	mfcb	0
 𪐃	mfcb	0
@@ -57961,6 +58076,7 @@ encoder:
 䵔	mffk	5550
 𨋟	mffk	0
 𩠼	mffk	0
+𫞸	mffk	0
 𫂡	mffl	0
 𥢖	mffm	0
 𪅌	mffr	0
@@ -59724,6 +59840,7 @@ encoder:
 𥯕	mkro	0
 箟	mkrr	188000
 𥯡	mkrr	0
+𫞾	mkrr	0
 𥮀	mkrs	0
 䈓	mkry	4320
 复读	mkse	6370000
@@ -60825,6 +60942,7 @@ encoder:
 乘坐	mtoo	12400000
 𥵬	mtop	0
 乘船	mtpq	2190000
+𫞿	mtsf	0
 𫂃	mtso	0
 简谱	mtsu	711000
 简讯	mtsy	4340000
@@ -61643,6 +61761,7 @@ encoder:
 𢞋	najw	0
 例题	naka	1890000
 何时	nakd	31100000
+𫝊	nakd	0
 俨	nakm	1180000
 便	nako	437000000
 𠏊	nako	0
@@ -61743,6 +61862,7 @@ encoder:
 𧷈	nbal	0
 𠔜	nbao	0
 𦦲	nbao	0
+𫟋	nbao	0
 𦥩	nbaq	0
 䶄	nbau	3980
 毁灭	nbau	16000000
@@ -61857,6 +61977,7 @@ encoder:
 𢾌	nbix	0
 𪔿	nbix	0
 𪕽	nbix	0
+𫝯	nbiy	0
 𡡋	nbiz	0
 𡡼	nbiz	0
 𥽳	nbjc	0
@@ -63855,6 +63976,8 @@ encoder:
 僼	nkju	60200
 皚	nkju	188000
 𤾢	nkju	0
+𫝋	nkju	0
+𫟪	nkjw	0
 曁	nkka	136000
 𤽔	nkka	0
 㒦	nkkb	4530
@@ -64001,6 +64124,7 @@ encoder:
 偶然	nkrg	35900000
 㑼	nkrj	4200
 𤽥	nkrj	0
+𫞮	nkrj	0
 偶尔	nkrk	33800000
 𣇙	nkrk	0
 𣼙	nkrk	0
@@ -64244,6 +64368,7 @@ encoder:
 𪖡	nlgy	0
 自转	nlhb	971000
 𪖺	nlhr	0
+𫝙	nlia	0
 𧑉	nlii	0
 𪖚	nlij	0
 𣊅	nlik	0
@@ -65452,6 +65577,7 @@ encoder:
 𪝴	nwgy	0
 偏转	nwhb	799000
 𠋤	nwhb	0
+𫝈	nwhe	0
 偏上	nwiv	538000
 𠐏	nwju	0
 𠑅	nwju	0
@@ -66252,6 +66378,7 @@ encoder:
 𨍻	odaf	0
 𠇄	odag	0
 𠓱	odag	0
+𫝆	odag	0
 𠁄	odai	0
 𠁥	odai	0
 𠓪	odai	0
@@ -66330,6 +66457,7 @@ encoder:
 𪜬	odbk	0
 𡎬	odbl	0
 𢁭	odbl	0
+𫝆	odbm	0
 𠐸	odbn	0
 𠊍	odbo	0
 𢒐	odbp	0
@@ -66342,6 +66470,7 @@ encoder:
 𨤾	odbu	0
 佥	odbv	450000
 𢚒	odbw	0
+𫝹	odbw	0
 𪠩	odbx	0
 入场	odby	8020000
 𨛏	odby	0
@@ -66419,6 +66548,7 @@ encoder:
 𢒃	odip	0
 𠆪	odir	0
 𪅰	odir	0
+𫝇	odis	0
 㪁	odix	4010
 㪧	odix	4140
 敆	odix	375000
@@ -66859,6 +66989,7 @@ encoder:
 倉	odxj	9650000
 含	odxj	171000000
 𠑐	odxj	0
+𫝉	odxj	0
 龣	odxk	22700
 𣲎	odxk	0
 貪	odxl	5380000
@@ -67017,6 +67148,7 @@ encoder:
 𢖌	oiak	0
 䘙	oial	4010
 衞	oial	367000
+𫟙	oial	0
 𢖉	oiam	0
 衟	oian	24000
 𧗡	oian	0
@@ -67195,6 +67327,7 @@ encoder:
 𢔸	oijl	0
 𢔹	oijl	0
 𢕪	oijl	0
+𫟘	oijl	0
 㣲	oijm	4200
 徫	oijm	76900
 衛	oijm	17200000
@@ -69275,6 +69408,7 @@ encoder:
 𨮾	pbjd	0
 鎱	pbjr	572000
 𨯨	pbju	0
+𫟱	pbkd	0
 𫒨	pbki	0
 銢	pbkv	36000
 銾	pbkv	22600
@@ -69498,6 +69632,7 @@ encoder:
 逓	pdlw	85200
 遁	pdlw	6120000
 𨟊	pdly	0
+𫟬	pdly	0
 丘县	pdlz	600000
 𧖴	pdml	0
 𧗃	pdml	0
@@ -69761,6 +69896,7 @@ encoder:
 针线	pezh	1170000
 针织	pezj	11900000
 鑉	pezl	22200
+𫠁	pezl	0
 𨦵	pezo	0
 𨰂	pezu	0
 釆	pfaa	3770000
@@ -69937,6 +70073,7 @@ encoder:
 錛	pgee	292000
 锛	pgee	2540000
 䥄	pgek	6640
+𫠀	pgek	0
 𨮭	pgep	0
 须要	pgfv	1860000
 须根	pgfx	435000
@@ -69998,6 +70135,7 @@ encoder:
 銍	phba	46000
 鉽	phbi	51200
 鋞	phbi	70000
+𫟸	phbi	0
 𧸶	phbl	0
 钱票	phfb	107000
 铙	phgr	268000
@@ -70316,6 +70454,7 @@ encoder:
 𨭍	pkwz	0
 铛	pkxb	1960000
 铿	pkxb	624000
+𫟰	pkxb	0
 𨦻	pkym	0
 翻建	pkyx	668000
 鎉	pkyy	26000
@@ -70564,6 +70703,7 @@ encoder:
 𨯥	pmrr	0
 铁证	pmsa	888000
 𨧰	pmtr	0
+𫟽	pmtr	0
 䤣	pmua	5690
 锤炼	pmuh	1520000
 鍬	pmuo	1230000
@@ -70756,6 +70896,7 @@ encoder:
 𨯣	poyb	0
 鈖	poyd	89000
 锉刀	poyd	394000
+𫟴	poyd	0
 𨩣	poyl	0
 兵力	poym	6160000
 鎓	poyy	38100
@@ -70962,6 +71103,7 @@ encoder:
 䝖	pqpv	3520
 貈	pqpy	28400
 銏	pqqa	1120000
+𫟶	pqqa	0
 貐	pqqk	49000
 䝘	pqqx	3620
 铅印	pqra	224000
@@ -71049,6 +71191,7 @@ encoder:
 𧲳	pqzo	0
 貀	pqzz	30100
 𨩰	pram	0
+𫟾	pram	0
 𨭶	prbi	0
 欣喜	prbj	19700000
 𦗦	prce	0
@@ -71320,6 +71463,7 @@ encoder:
 鋶	pszn	218000
 锍	pszn	231000
 䤤	pszo	9520
+𫟺	pszo	0
 錥	pszq	41400
 𨯤	pszq	0
 𫓾	pszq	0
@@ -71371,6 +71515,7 @@ encoder:
 镰刀	ptyd	1950000
 鉱	ptzs	904000
 鎈	pubi	45100
+𫟿	pubi	0
 𨨤	pubz	0
 𨧂	puek	0
 𨯆	puek	0
@@ -71586,6 +71731,7 @@ encoder:
 𤨐	pvnc	0
 𩥓	pvnc	0
 銂	pvnd	44700
+𫟻	pvnd	0
 𤔥	pvnf	0
 𠞞	pvnk	0
 𢅁	pvnl	0
@@ -71817,6 +71963,7 @@ encoder:
 鍕	pwfk	1660000
 鏈	pwfk	9290000
 𨩔	pwfs	0
+𫟼	pwgd	0
 鎵	pwgq	1940000
 镓	pwgq	659000
 錑	pwgs	90100
@@ -72488,6 +72635,7 @@ encoder:
 𫇝	pyxx	0
 𫒶	pyxz	0
 釲	pyyb	20300
+𫟳	pyyb	0
 舠	pyyd	62400
 𦨇	pyyd	0
 𦩣	pyyg	0
@@ -72564,6 +72712,7 @@ encoder:
 𨥡	pzqd	0
 鈗	pzrd	44100
 鏘	pzrd	856000
+𫟵	pzrd	0
 𨮳	pzru	0
 𫔒	pzru	0
 𨰽	pzrz	0
@@ -72813,6 +72962,7 @@ encoder:
 飑	qdor	462000
 风	qdos	312000000
 𠘰	qdos	0
+𫠇	qdos	0
 几个	qdov	170000000
 𫖽	qdox	0
 几分	qdoy	26900000
@@ -72842,6 +72992,7 @@ encoder:
 𠘵	qduz	0
 脙	qdvs	437000
 𫗋	qdwm	0
+𫠈	qdwm	0
 𫗁	qdwx	0
 𫗂	qdwx	0
 𫗈	qdwy	0
@@ -73367,6 +73518,7 @@ encoder:
 𦛉	qjli	0
 䐣	qjlo	4510
 脶	qjlo	43700
+𫞆	qjma	0
 䐃	qjmf	5350
 臊气	qjmy	66300
 𦛗	qjnj	0
@@ -73685,6 +73837,7 @@ encoder:
 㹽	qmhh	4960
 犽	qmhi	620000
 𢦖	qmhm	0
+𫞣	qmhm	0
 𤞄	qmhr	0
 𤡚	qmhr	0
 𤞉	qmhs	0
@@ -74275,6 +74428,7 @@ encoder:
 狁	qmzr	52000
 獗	qmzr	310000
 𤞀	qmzr	0
+𫞤	qmzr	0
 獡	qmzu	46400
 𤡯	qmzu	0
 𤢒	qmzu	0
@@ -74705,6 +74859,7 @@ encoder:
 𫆝	qtdm	0
 𦟉	qteb	0
 𦙒	qted	0
+𫟊	qtel	0
 𦟟	qtff	0
 𦟏	qtfk	0
 𦣆	qtfk	0
@@ -74821,6 +74976,7 @@ encoder:
 膌	qvoq	44700
 脳	qvoz	29000000
 𦞓	qvpr	0
+𫞇	qvqb	0
 朓	qvrd	160000
 脁	qvrd	59000
 月亮	qvsj	31200000
@@ -74904,6 +75060,7 @@ encoder:
 狠毒	qxcz	2410000
 𦟼	qxdm	0
 狠抓	qxdp	6640000
+𫞅	qxds	0
 䏔	qxed	3610
 𦟌	qxeh	0
 腒	qxej	28100
@@ -75403,6 +75560,7 @@ encoder:
 䱨	rflk	7350
 鰊	rflk	361000
 𩼜	rfll	0
+𫠎	rflo	0
 𩸳	rfmo	0
 条例	rfna	112000000
 𩽤	rfnj	0
@@ -75419,6 +75577,7 @@ encoder:
 𫙤	rfsq	0
 𩺹	rfsy	0
 𩵦	rfvv	0
+𫠏	rfvv	0
 𩻕	rfwr	0
 鱈	rfxb	2010000
 鳕	rfxb	2340000
@@ -75453,6 +75612,7 @@ encoder:
 䱳	rgkb	25700
 𫚆	rgkg	0
 𩻻	rgkk	0
+𫝖	rgko	0
 𩸆	rgkz	0
 鮞	rgla	58500
 鲕	rgla	89200
@@ -75499,6 +75659,7 @@ encoder:
 危害	rgwc	70100000
 危房	rgws	1650000
 𩸺	rgxk	0
+𫝖	rgxk	0
 危难	rgxn	2510000
 鮁	rgxs	26200
 鲅	rgxs	544000
@@ -76585,6 +76746,7 @@ encoder:
 𩺟	rnxm	0
 䱸	rnxs	12000
 𩹹	rnxs	0
+𫠑	rnxs	0
 𫙨	rnxx	0
 𩺫	rnym	0
 𩼾	rnzu	0
@@ -76660,6 +76822,7 @@ encoder:
 鮜	rpaj	96600
 鲘	rpaj	48900
 𩷴	rpay	0
+𫠍	rped	0
 鰩	rpez	71100
 鳐	rpez	257000
 鰀	rpgx	53900
@@ -76758,6 +76921,7 @@ encoder:
 𪉆	rrkr	0
 毕业	rrku	126000000
 𩷛	rrld	0
+𫞲	rrlg	0
 眞	rrlo	6770000
 𠤤	rrlo	0
 𧴦	rrlo	0
@@ -76926,9 +77090,11 @@ encoder:
 夡	rsbj	30500
 𠶰	rsbj	0
 祭	rsbk	81500000
+𫞴	rsbk	0
 留坝	rsbl	140000
 𡖚	rsbn	0
 𩼆	rsbr	0
+𫝣	rsbs	0
 𨝋	rsby	0
 𡖮	rsbz	0
 𪠞	rsbz	0
@@ -76944,6 +77110,7 @@ encoder:
 頯	rseg	24900
 𡖻	rsel	0
 𪤾	rseq	0
+𫝢	rses	0
 𡕛	rseu	0
 𤍙	rseu	0
 㩼	rsex	3810
@@ -77024,6 +77191,7 @@ encoder:
 𪤿	rskb	0
 𡭫	rskd	0
 鱆	rske	68300
+𫠒	rske	0
 㚌	rskf	4360
 𤑗	rskf	0
 𨑊	rskg	0
@@ -77145,6 +77313,7 @@ encoder:
 𡖅	rsrr	0
 𦠺	rsrr	0
 𪀩	rsrr	0
+𫠔	rsrr	0
 多	rsrs	1730000000
 𡖇	rsrs	0
 𡖑	rsrs	0
@@ -77946,6 +78115,7 @@ encoder:
 𠣎	ryzz	0
 𠣖	ryzz	0
 烏	rzaa	13500000
+𫠓	rzaa	0
 𩾝	rzae	0
 䴌	rzag	4130
 𪃆	rzag	0
@@ -78794,6 +78964,7 @@ encoder:
 諫	sflk	1120000
 谏	sflk	6170000
 䜖	sflo	3590
+𫟢	sflo	0
 亲眼	sflx	8780000
 𠣂	sfly	0
 新县	sflz	1040000
@@ -81009,6 +81180,7 @@ encoder:
 辩护	ssdw	6310000
 譲	sser	2480000
 讓	sser	190000000
+𫟝	sser	0
 𧭼	ssfl	0
 諒	ssjk	2380000
 谅	ssjk	2750000
@@ -81130,6 +81302,7 @@ encoder:
 𫁢	suad	0
 𥫉	suae	0
 谈天	suag	2640000
+𫞻	suai	0
 竒	suaj	319000
 𥩤	suaj	0
 𥩻	suaj	0
@@ -81273,6 +81446,7 @@ encoder:
 𥩰	suhx	0
 𥩡	suhz	0
 𦁋	suhz	0
+𫞼	suib	0
 𥩖	suid	0
 𩐮	suie	0
 𣥢	suii	0
@@ -81348,6 +81522,7 @@ encoder:
 章	suke	158000000
 竨	suke	52900
 𥪮	suke	0
+𫟠	suke	0
 𩐣	sukg	0
 𩐳	sukg	0
 𩐻	sukg	0
@@ -81465,6 +81640,7 @@ encoder:
 𪿁	suml	0
 産	summ	34200000
 谈笑	summ	3910000
+𫝸	sumo	0
 彦	sump	11800000
 𣫡	sumq	0
 竷	sumr	725000
@@ -81507,6 +81683,7 @@ encoder:
 谥	suol	2140000
 𧶜	suol	0
 𤙺	suom	0
+𫝸	suom	0
 𧱘	suon	0
 𥪂	suoo	0
 𥪐	suoo	0
@@ -81787,6 +81964,7 @@ encoder:
 誴	swbk	23000
 諠	swbk	326000
 𧫲	swbk	0
+𫟡	swbk	0
 䜔	swbq	3630
 𧨎	swbr	0
 𧬻	swbu	0
@@ -82304,6 +82482,7 @@ encoder:
 旞	syug	26100
 词类	syug	308000
 𣄚	syug	0
+𫞁	syug	0
 记性	syum	2670000
 𣃛	syuo	0
 𣄡	syuu	0
@@ -82350,6 +82529,7 @@ encoder:
 𡟕	syyz	0
 旀	syzk	743000
 词组	syzl	6250000
+𫞀	syzm	0
 旈	syzn	663000
 旒	syzn	319000
 𪔉	syzn	0
@@ -82448,6 +82628,7 @@ encoder:
 𠡤	szny	0
 㐪	szod	4610
 亥	szod	5500000
+𫝅	szod	0
 頦	szog	614000
 颏	szog	694000
 刻	szok	70400000
@@ -82784,6 +82965,7 @@ encoder:
 头	tdgd	340000000
 𣂇	tdgk	0
 𪟅	tdgk	0
+𫝏	tdgp	0
 𠗇	tdgu	0
 𠗊	tdhb	0
 㭍	tdhf	4250
@@ -82848,6 +83030,7 @@ encoder:
 凟	tdll	28400
 凗	tdln	30200
 𪞗	tdlo	0
+𫝎	tdlr	0
 闭眼	tdlx	2290000
 𫑫	tdly	0
 𠘅	tdlz	0
@@ -83618,6 +83801,7 @@ encoder:
 𢈣	tgnr	0
 𪇛	tgnr	0
 𪈲	tgnr	0
+𫠕	tgnr	0
 譍	tgns	28000
 𢋗	tgnu	0
 應	tgnw	46000000
@@ -83630,6 +83814,7 @@ encoder:
 廛	tgob	496000
 瘞	tgob	111000
 𢊃	tgob	0
+𫝶	tgob	0
 庂	tgod	25000
 广德	tgoe	1070000
 𢈰	tgoe	0
@@ -83857,6 +84042,7 @@ encoder:
 㡽	tgxb	3860
 廜	tgxb	26500
 𢉆	tgxb	0
+𫝷	tgxb	0
 𢉹	tgxf	0
 𩒯	tgxg	0
 头皮	tgxi	7250000
@@ -84244,6 +84430,7 @@ encoder:
 㿂	tlcm	7320
 阚	tlcm	1050000
 闭	tldm	57500000
+𫞭	tldm	0
 痶	tleo	25500
 门票	tlfb	17100000
 门禁	tlff	9760000
@@ -84306,6 +84493,7 @@ encoder:
 	tlob	0
 闪	tlod	99200000
 阏	tlot	369000
+𫠂	tlow	0
 门外	tlri	19200000
 阁	tlrj	58400000
 阍	tlrk	487000
@@ -85439,6 +85627,7 @@ encoder:
 𨂝	uakj	0
 普	uakk	177000000
 𣹅	uakk	0
+𫝐	uakk	0
 𢃬	uakl	0
 𢡍	uakl	0
 𢡤	uakl	0
@@ -85605,6 +85794,7 @@ encoder:
 𢆉	ubaa	0
 𦍍	ubaa	0
 半天	ubag	28000000
+𫝤	ubag	0
 𢞄	ubaj	0
 半百	uban	685000
 𪫭	ubaz	0
@@ -85754,6 +85944,7 @@ encoder:
 劵	ubym	2760000
 𤙻	ubym	0
 㥘	ubys	4370
+𫟩	ubyw	0
 勌	ubyy	26200
 卷	ubyy	124000000
 巻	ubyy	47300000
@@ -85891,6 +86082,7 @@ encoder:
 㪨	ucix	4200
 𢼝	ucix	0
 𫅟	ucix	0
+𫝥	ucix	0
 𦎘	ucja	0
 𪬮	ucjc	0
 䍰	ucjd	4000
@@ -86050,6 +86242,7 @@ encoder:
 精良	ucsx	12100000
 羪	ucsx	29800
 養	ucsx	23300000
+𫝥	ucsx	0
 𫑩	ucsy	0
 㕗	ucsz	4220
 精装	uctb	26100000
@@ -86059,6 +86252,7 @@ encoder:
 精度	uctv	19000000
 𩱋	ucua	0
 𫅓	ucuc	0
+𫟈	ucud	0
 䫞	ucug	3490
 情怀	ucug	16800000
 精美	ucug	64300000
@@ -86273,6 +86467,7 @@ encoder:
 𤭌	udys	0
 𤮐	udys	0
 為	udyu	453000000
+𫞟	udyu	0
 递	udyw	27600000
 𢚖	udyw	0
 䎖	udyy	3640
@@ -86527,6 +86722,7 @@ encoder:
 䊛	uffq	3490
 𢟼	uffr	0
 𥽰	uffu	0
+𫟀	uffx	0
 𥹂	ufga	0
 𡔇	ufgb	0
 类	ufgd	534000000
@@ -88793,6 +88989,7 @@ encoder:
 𤑞	uowf	0
 𤑱	uowf	0
 𨍶	uowf	0
+𫞡	uowf	0
 䃕	uowg	4320
 𤌫	uowg	0
 𤐶	uowg	0
@@ -88919,6 +89116,7 @@ encoder:
 𤍝	uoxu	0
 𤏌	uoxu	0
 𤑙	uoxu	0
+𫞠	uoxu	0
 惗	uoxw	62400
 焾	uoxw	274000
 煺	uoxw	55100
@@ -90264,6 +90462,7 @@ encoder:
 𣾸	vdai	0
 湁	vdaj	917000
 兴	vdao	90200000
+𫠘	vdbk	0
 𤃧	vdbu	0
 厳	vdcm	1010000
 戦	vdeh	45000000
@@ -90302,6 +90501,7 @@ encoder:
 峃	vdwl	108000
 覚	vdwl	1980000
 觉	vdwl	57500000
+𫞢	vdwm	0
 鲎	vdwr	713000
 鴬	vdwr	177000
 鸴	vdwr	23400
@@ -90346,6 +90546,7 @@ encoder:
 𣸣	veel	0
 瀻	veeo	338000
 潮	veeq	47500000
+𫞙	vees	0
 𣿯	veex	0
 𪷒	veez	0
 灌木	vefa	4780000
@@ -90406,6 +90607,7 @@ encoder:
 漕	vekk	2770000
 𣿻	vekk	0
 𤄠	vekl	0
+𫞞	vekn	0
 潢	veko	1680000
 㵧	vekr	6540
 湖畔	veku	11600000
@@ -91207,6 +91409,7 @@ encoder:
 温带	vkew	1030000
 消协	vkey	2960000
 𣾙	vkfv	0
+𫞜	vkfv	0
 消极	vkfy	9690000
 油酸	vkfz	1120000
 油压	vkgb	1070000
@@ -91272,6 +91475,7 @@ encoder:
 混同	vkld	3880000
 温	vklk	91100000
 𣹉	vklk	0
+𫞜	vklk	0
 潎	vklm	74200
 温岭	vklo	3460000
 溑	vklo	21400
@@ -91394,6 +91598,7 @@ encoder:
 澲	vkuc	23500
 𣾴	vkuc	0
 濧	vkud	35500
+𫞜	vkuf	0
 灦	vkug	441000
 油烟	vkuj	6590000
 混养	vkun	311000
@@ -91970,6 +92175,7 @@ encoder:
 𤃙	vnue	0
 渊	vnuf	17400000
 澳	vnug	63800000
+𫞘	vnug	0
 潐	vnuo	394000
 𪇶	vnur	0
 淮河	vnva	2360000
@@ -92432,6 +92638,7 @@ encoder:
 𤂂	vsbj	0
 灨	vsbl	40400
 㶆	vsbm	4400
+𫞛	vsbm	0
 游走	vsbo	6300000
 𣿞	vsbr	0
 流动	vsbz	36100000
@@ -92745,11 +92952,13 @@ encoder:
 𤄟	vtoj	0
 渡船	vtpq	1390000
 澬	vtrl	77800
+𫞚	vtrl	0
 𣳩	vtro	0
 𣼀	vtrp	0
 𪶻	vtrq	0
 𣷳	vtrs	0
 润色	vtry	841000
+𫞗	vtso	0
 𪸇	vtub	0
 𤃱	vtuf	0
 瀌	vtuo	32600
@@ -92765,6 +92974,7 @@ encoder:
 滽	vtxl	27700
 𣷄	vtxo	0
 𣾩	vtxu	0
+𫞝	vtzr	0
 𣿕	vtzu	0
 㳕	vubd	3940
 溠	vubi	115000
@@ -93998,6 +94208,7 @@ encoder:
 社论	wbso	2960000
 远离	wbso	20900000
 远望	wbsq	4160000
+𫟨	wbsr	0
 空谈	wbsu	1500000
 远方	wbsy	16300000
 空闲	wbtf	5310000
@@ -94406,6 +94617,7 @@ encoder:
 𡩫	wdjy	0
 𨜱	wdjy	0
 𨝃	wdjy	0
+𫟭	wdjy	0
 𡫤	wdjz	0
 定量	wdka	9290000
 过量	wdka	6310000
@@ -94466,10 +94678,12 @@ encoder:
 𡩯	wdkz	0
 𡪫	wdkz	0
 𡫤	wdkz	0
+𫝰	wdkz	0
 寕	wdla	145000
 寧	wdla	13600000
 过目	wdla	2640000
 𡩬	wdla	0
+𫝱	wdla	0
 㝤	wdlb	4370
 寗	wdlb	68400
 𡩋	wdlb	0
@@ -96163,6 +96377,7 @@ encoder:
 宿州	wnvn	4310000
 迫害	wnwc	10800000
 邉	wnwj	299000
+𫟪	wnwj	0
 窗帘	wnwl	12800000
 𨘢	wnwl	0
 宿迁	wnwm	7090000
@@ -96272,6 +96487,7 @@ encoder:
 𥦈	wofj	0
 𥩉	wofk	0
 𥨾	wofl	0
+𫞺	wofl	0
 𥥇	wofs	0
 𥧞	wofx	0
 𥤮	wogd	0
@@ -96412,6 +96628,7 @@ encoder:
 𥨷	woll	0
 𥩐	woll	0
 𥩓	woll	0
+𫞺	woll	0
 𥨇	wolm	0
 窉	wolo	63900
 窝	wolo	30800000
@@ -97002,6 +97219,7 @@ encoder:
 𥙖	wseo	0
 𥜥	wseo	0
 禳	wser	577000
+𫞶	wseu	0
 䃽	wsex	4570
 䄁	wsez	7030
 祹	wsez	492000
@@ -97358,6 +97576,7 @@ encoder:
 𥚹	wswl	0
 𥛣	wswl	0
 𨘛	wswl	0
+𫞵	wswl	0
 祕	wswm	1890000
 𨖱	wswm	0
 房客	wswr	3390000
@@ -98291,6 +98510,7 @@ encoder:
 灾难	wuxn	19000000
 灾民	wuyh	2260000
 递加	wuyj	64500
+𫟩	wuyy	0
 递	wuyz	27600000
 逆	wuzi	81200000
 𫐷	wuzm	0
@@ -99063,6 +99283,7 @@ encoder:
 𨓁	wzzz	0
 乛	xaaa	175000
 𠃍	xaaa	0
+𫝀	xaaa	0
 𡵽	xaal	0
 马列	xaar	2930000
 𨚑	xaay	0
@@ -99892,6 +100113,7 @@ encoder:
 𡚽	xezm	0
 展出	xezz	11300000
 骠	xfbk	1140000
+𫠌	xfbk	0
 骦	xffl	32100
 𩨉	xfjk	0
 骑	xgaj	87600000
@@ -100213,6 +100435,7 @@ encoder:
 群组	xjzl	8260000
 𩎥	xjzm	0
 𩏨	xjzn	0
+𫠄	xjzo	0
 𩏰	xjzu	0
 𩎢	xjzx	0
 壁垒	xjzz	5360000
@@ -100700,6 +100923,7 @@ encoder:
 𣪍	xmqq	0
 㞍	xmqs	4220
 𦡍	xmqs	0
+𫝲	xmqs	0
 尻	xmqy	24400000
 尾鳍	xmrb	273000
 𡊴	xmrb	0
@@ -101491,6 +101715,7 @@ encoder:
 𠬾	xszz	0
 𠭴	xszz	0
 𥎐	xszz	0
+𫠊	xszz	0
 骥	xteo	5120000
 买卖	xtex	97700000
 买票	xtfb	3210000
@@ -102348,6 +102573,7 @@ encoder:
 𡡙	ygqz	0
 𨻢	yguo	0
 𨺕	yguy	0
+𫝡	ygwb	0
 𫕇	ygyb	0
 阨	ygyy	636000
 䧅	ygyz	3470
@@ -102676,6 +102902,7 @@ encoder:
 隙	ykkk	7880000
 𨻶	ykkk	0
 𨼗	ykkk	0
+𫠃	ykku	0
 阳电	ykkz	131000
 𨺷	ykld	0
 阳山	ykll	805000
@@ -102871,6 +103098,7 @@ encoder:
 𨻾	ymoe	0
 𣏻	ymof	0
 改行	ymoi	23500000
+𫞰	ymol	0
 盈余	ymom	3440000
 𦙲	ymoo	0
 𨼹	ymoo	0
@@ -102892,6 +103120,7 @@ encoder:
 延误	ymsj	4690000
 䪪	ymsk	3920
 𠚵	ymsk	0
+𫞯	ymsl	0
 䲯	ymsr	3610
 袈	ymsr	512000
 㤂	ymsw	7880
@@ -103045,6 +103274,7 @@ encoder:
 𨹉	yokv	0
 𫅮	yokz	0
 𫅲	yokz	0
+𫞯	yolk	0
 险峰	yolr	1440000
 险峻	yolz	2840000
 除	yomf	184000000
@@ -103700,6 +103930,7 @@ encoder:
 𨼭	ywoy	0
 随后	ywpa	53500000
 𡓗	ywqb	0
+𫝡	ywqb	0
 随处	ywri	6270000
 𨻮	ywrm	0
 𫕂	ywrq	0
@@ -103798,6 +104029,7 @@ encoder:
 民	yybh	154000000
 翼城	yybh	494000
 𢁎	yybh	0
+𫞖	yybh	0
 蟁	yybi	45700
 𧊈	yybi	0
 𧓹	yybi	0
@@ -105690,6 +105922,7 @@ encoder:
 𡟪	zmal	0
 𡠱	zmal	0
 𡣓	zmal	0
+𫝬	zmal	0
 㚦	zman	4110
 㜚	zman	4220
 嬶	zman	443000
@@ -105733,7 +105966,9 @@ encoder:
 媗	zmbk	117000
 𡛭	zmbk	0
 𡢱	zmbk	0
+𫝫	zmbk	0
 𡟫	zmbl	0
+𫝪	zmbl	0
 媎	zmbm	37200
 𡢝	zmbm	0
 𦇃	zmbm	0
@@ -105782,6 +106017,7 @@ encoder:
 𪦊	zmbz	0
 𡞗	zmcb	0
 𡤙	zmcc	0
+𫝩	zmcd	0
 㛅	zmce	3770
 㛞	zmce	3610
 𪥽	zmch	0
@@ -105901,6 +106137,7 @@ encoder:
 𡤅	zmfl	0
 𪥱	zmfl	0
 𪦡	zmfl	0
+𫝮	zmfl	0
 𡡵	zmfm	0
 㜛	zmfr	4230
 𡠇	zmfw	0
@@ -106169,6 +106406,7 @@ encoder:
 媑	zmkb	29000
 嬞	zmkb	148000
 緟	zmkb	208000
+𫟆	zmkb	0
 婔	zmkc	49000
 𠚰	zmkd	0
 㜤	zmke	4590
@@ -106300,6 +106538,7 @@ encoder:
 嫃	zmlo	104000
 嬹	zmlo	26300
 𡛦	zmlo	0
+𫝦	zmlo	0
 娊	zmlr	481000
 收购	zmlr	47400000
 𡢚	zmls	0
@@ -106307,10 +106546,12 @@ encoder:
 𡤁	zmlu	0
 嫚	zmlx	1090000
 𡡆	zmlx	0
+𫝧	zmly	0
 媀	zmlz	34900
 孆	zmlz	37800
 𡟠	zmlz	0
 𡢞	zmlz	0
+𫝭	zmlz	0
 妊	zmmb	1670000
 姙	zmmb	240000
 娗	zmmb	63700
@@ -106781,6 +107022,7 @@ encoder:
 𡡪	zmwg	0
 𧰺	zmwg	0
 嬯	zmwh	23200
+𫝨	zmwh	0
 𪦱	zmwi	0
 婶	zmwk	1220000
 㛿	zmwl	5220
@@ -107102,6 +107344,7 @@ encoder:
 綿	znli	14500000
 绵	znli	5370000
 絍	znmb	76200
+𫟃	znmb	0
 绵竹	znmi	732000
 维和	znmj	2700000
 维修	znni	90600000
@@ -107601,6 +107844,7 @@ encoder:
 刣	zsjk	33500
 綡	zsjk	58400
 𠫩	zsjk	0
+𫟅	zsjk	0
 縞	zsjl	1800000
 缟	zsjl	437000
 𥁐	zsjl	0
@@ -107931,6 +108175,7 @@ encoder:
 缠住	ztns	2320000
 纏	ztob	4710000
 𦆲	ztop	0
+𫟇	ztop	0
 絘	ztro	162000
 䋳	ztrq	3710
 娴熟	ztsj	2430000
@@ -108135,6 +108380,7 @@ encoder:
 𫄫	zwgs	0
 编码	zwgx	93900000
 綋	zwgz	399000
+𫟄	zwgz	0
 婉转	zwhb	3200000
 𦄔	zwhb	0
 𦈉	zwhe	0
@@ -108174,6 +108420,7 @@ encoder:
 𦇶	zwoi	0
 𫃻	zwoj	0
 缩微	zwol	530000
+𫟂	zwot	0
 编创	zwoy	407000
 𦇶	zwoy	0
 缤	zwpo	24400000
@@ -108240,6 +108487,7 @@ encoder:
 䋖	zxbd	4180
 绎	zxbi	1170000
 经	zxbi	423000000
+𫟁	zxbq	0
 绿地	zxbv	6610000
 𦄥	zxbw	0
 纽埃	zxbz	365000
@@ -108304,6 +108552,7 @@ encoder:
 经受	zxpw	12100000
 𦅛	zxqd	0
 经脉	zxqs	2290000
+𫟁	zxqx	0
 绿肥	zxqy	444000
 𦂋	zxrf	0
 䌵	zxri	4210
